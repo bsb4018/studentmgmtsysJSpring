@@ -1,5 +1,5 @@
 #
-Student-Management-System 
+Student Management System Web Application
 #
 Support for Login/Logout,Create, Read, Update, Delete Students based on user roles LECTURER/PROFESSOR/HOD
 #
